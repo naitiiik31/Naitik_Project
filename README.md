@@ -1,19 +1,3 @@
-<div align="center">
-
-# 👋 Hi, I'm Naitikkumar Patel
-
-### 🤖 AI/ML Engineer · 📊 Data Analyst · 🧠 Generative AI Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-naitiiik31-181717?style=for-the-badge&logo=github)](https://github.com/naitiiik31)
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/naitiiik31)
-[![ML](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/naitiiik31)
-[![GenAI](https://img.shields.io/badge/GenAI-LangChain_·_RAG-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/naitiiik31)
-
-> Passionate about building intelligent systems — from end-to-end ML pipelines to production-ready Generative AI applications.
-
-</div>
-
----
 
 ## ⭐ Featured Projects
 
